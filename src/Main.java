@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        String caminho = "./src/dados/brasil.txt";
+        String caminho = "./dados/brasil.txt";
 //        String caminho = "./src/dados/teste-caminho4.txt";
 
         In in = new In(caminho);
